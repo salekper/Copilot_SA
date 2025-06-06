@@ -1,2 +1,2 @@
-# Rock Paper Scissor Lizard Spok
+# Rock Paper Scissor Lizard Spock
 ## text game using github copilot
