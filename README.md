@@ -1,2 +1,2 @@
-# Copilot_SA
-text games in copilot
+# Rock Paper Scissor Lizard Spok
+## text game using github copilot
